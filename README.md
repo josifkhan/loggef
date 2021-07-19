@@ -14,7 +14,8 @@ step1: Download zip or git clone link:
 git clone https://github.com/josifkhan/loggef
 
 step2:
-cd loggef
+cd loggef <br/>
+pip install -r requirements
 python3 loggef.py
 
 
