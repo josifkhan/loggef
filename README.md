@@ -10,7 +10,7 @@ Recommended to use Linux.
 
 # How to Use
 
-step1: Download zip or git clone link:
+step1: Download zip or git clone link:<br/>
 git clone https://github.com/josifkhan/loggef
 
 step2:<br/>
