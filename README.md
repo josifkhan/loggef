@@ -13,7 +13,7 @@ Recommended to use Linux.
 step1: Download zip or git clone link:
 git clone https://github.com/josifkhan/loggef
 
-step2:
+step2:<br/>
 cd loggef <br/>
 pip install -r requirements <br/>
 python3 loggef.py <br/>
