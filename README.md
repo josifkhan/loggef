@@ -15,8 +15,8 @@ git clone https://github.com/josifkhan/loggef
 
 step2:
 cd loggef <br/>
-pip install -r requirements
-python3 loggef.py
+pip install -r requirements <br/>
+python3 loggef.py <br/>
 
 
 For Using & Password Subscribe channel Follow Tutorial :
