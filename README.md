@@ -7,6 +7,7 @@ Use this tool for educational purposes only, we are not responsible for your act
 
 # Platform
 Recommended to use Linux.
+Designed for Termux Mobile App
 
 # How to Use
 
