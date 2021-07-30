@@ -1,5 +1,5 @@
 # loggef
-Facebook automation tool, facebook account cloning advanced tool + dictionary attack added
+Facebook automation tool, Facebook account hacking and cloning advanced tool + dictionary attack added
 # Warning
 Use this tool for educational purposes only, we are not responsible for your action.
 
