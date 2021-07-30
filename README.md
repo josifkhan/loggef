@@ -17,17 +17,24 @@ Designed for Termux Mobile App
 
 # How to Use
 
-step1: Download zip or git clone link:<br/>
+Download zip or git clone link:
+✓✓Commands✓✓
+<br/>
 git clone https://github.com/josifkhan/loggef
-
-step2:<br/>
-cd loggef <br/>
-pip install -r requirements <br/>
-python3 loggef.py <br/>
-
-
-For Using & Password Subscribe channel Follow Tutorial :
+<br/>
+cd loggef
+<br/>
+pip install -r requirements
+<br/>
+python3 loggef.py
+<br/>
+Enter access code-
+<br/>
+Select Option-
+<br/><br/>
+For Access Code - Subscribe My Channel Follow Video Tutorial :
 https://youtube.com/101hacker
 
-
+# Join Hacker Community Group: 
+✓ Join Our Active Facebook Group - <a href="https://facebook.com/groups/437537707116624/">Hacker Community</a>
 
