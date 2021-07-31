@@ -12,14 +12,14 @@ Use this tool for educational purposes only, we are not responsible for your act
 
 
 # Platform
-Recommended to use Linux.
+Recommended to use Linux.<br/>
 Designed for Termux Mobile App
 
 # How to Use
 
-Download zip or git clone link:
+Download zip or git clone link:<br/>
 ✓✓Commands✓✓
-<br/>
+<br/><br/>
 git clone https://github.com/josifkhan/loggef
 <br/>
 cd loggef
@@ -34,7 +34,8 @@ Select Option-
 <br/><br/>
 For <a href="https://youtube.com/101hacker">Access Code</a> - Subscribe My Channel Follow Video Tutorial :
 https://youtube.com/101hacker
-
-# Join Hacker Community Group: 
+<br/>
+# Join Social: <br/>
 ✓ Join Our Active Facebook Group - <a href="https://facebook.com/groups/437537707116624/">Hacker Community</a>
-
+<br/>
+✓ Like/Follow Our Official Page: <a href="https://facebook.com/Shathihara-Cyber-Security-Helps-109845683903349/">Sathihara - Cyber Security Helps</a>
