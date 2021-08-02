@@ -26,7 +26,7 @@ cd loggef
 <br/>
 pip install -r requirements
 <br/>
-python3 loggef.py
+python loggef.py
 <br/>
 Enter access code-
 <br/>
