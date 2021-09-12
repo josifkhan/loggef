@@ -17,7 +17,6 @@ Designed for Termux Mobile App
 Download zip or git clone link:<br/>
 ✓✓Commands✓✓
 <br/><br/>
-<textarea>
 git clone https://github.com/josifkhan/loggef
 <br/>
 cd loggef
@@ -25,13 +24,13 @@ cd loggef
 pip install -r requirements
 <br/>
 python loggef.py
-</textarea>
+<br/>
 
 Enter access code-
 <br/>
 Select Option-
 <br/><br/>
-For <a href="https://youtube.com/101hacker">Access Code</a> - Subscribe My Channel Follow Video Tutorial :
+For <a href="https://facebook.com/josifkhangg">Access Code</a> - Subscribe My Channel Follow Video Tutorial :
 https://youtube.com/101hacker
 <br/>
 # Join Social: <br/>
