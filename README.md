@@ -16,7 +16,7 @@ Designed for Termux Mobile App
 
 Download zip or git clone link:<br/>
 ✓✓Commands✓✓
-<br/><br/>
+<br/><br/><b>
 git clone https://github.com/josifkhan/loggef
 <br/>
 cd loggef
@@ -24,16 +24,16 @@ cd loggef
 pip install -r requirements
 <br/>
 python loggef.py
-<br/>
+<br/></b>
 
-Enter access code-
+Enter access code: 101h4cker
 <br/>
 Select Option-
 <br/><br/>
-For <a href="https://facebook.com/josifkhangg">Access Code</a> - Subscribe My Channel Follow Video Tutorial :
-https://youtube.com/101hacker
-<br/>
-# Join Social: <br/>
-✓ Join Our Active Facebook Group - <a href="https://facebook.com/groups/437537707116624/">Hacker Community</a>
-<br/>
-✓ Like/Follow Our Official Page: <a href="https://facebook.com/Shathihara-Cyber-Security-Helps-109845683903349/">Sathihara - Cyber Security Helps</a>
+<br/><a href="https://facebook.com/josifkhangg">Follow</a><b>  Official Profile |</b>
+<br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
+<br/><a href="https://github.com/josifkhan">Follow</a><b>  Github |</b>
+<br/><a href="https://facebook.com/groups/437537707116624/">Join In</a><b>  Official Group |</b>
+<br/><a href="https://t.me/termuxbangla">Join In</a><b>  Telegram Group|</b>
+<br/><a href="https://t.me/hacker101community">Join In</a><b>  Telegram Channel|</b><br/><br/>
+   
