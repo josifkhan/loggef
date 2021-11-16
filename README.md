@@ -17,18 +17,14 @@ Designed for Termux Mobile App
 Download zip or git clone link:<br/>
 ✓✓Commands✓✓
 <br/><br/><b>
-git clone https://github.com/josifkhan/loggef
-<br/>
-cd loggef
-<br/>
-pip install -r requirements
-<br/>
-python loggef.py
-<br/></b>
+>>git clone https://github.com/josifkhan/loggef <br/>
+>>cd loggef <br/>
+>>pip install -r requirements<br/>
+>>python loggef.py</b><br/>
 
-Enter access code: <b>101h4cker</b>
+>>Enter access code: <b>101h4cker</b>
 <br/>
-Select Option-
+>>Select Option-
 <br/><br/>
 <br/><a href="https://facebook.com/josifkhangg">Follow</a><b>  Official Profile |</b>
 <br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
