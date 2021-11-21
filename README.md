@@ -20,13 +20,14 @@ Download zip or git clone link:<br/>
 >>git clone https://github.com/josifkhan/loggef <br/>
 >>cd loggef <br/>
 >>pip install -r requirements<br/>
->>python loggef.py</b><br/>
-
->>Enter access code: <b>101h4cker</b>
-<br/>
+>>python loggef.py</b><br/><br/>
+>>Enter Access Code<br/>
 >>Select Option-
 <br/><br/>
-<br/><a href="https://facebook.com/josifkhangg">Follow</a><b>  Official Profile |</b>
+>><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
+<br/>
+
+>><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/>
 <br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
 <br/><a href="https://github.com/josifkhan">Follow</a><b>  Github |</b>
 <br/><a href="https://facebook.com/groups/437537707116624/">Join In</a><b>  Official Group |</b>
