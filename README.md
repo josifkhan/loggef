@@ -24,6 +24,7 @@ Download zip or git clone link:<br/>
 >>Enter Access Code<br/>
 >>Select Option-
 <br/><br/>
+>><b>SUBSCRIBE OUR CHANNEL</b>
 >><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
 <br/>
 
