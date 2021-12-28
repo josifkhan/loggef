@@ -32,13 +32,9 @@ Download zip or git clone link:<br/>
 <br/>
 
   - <a href="https://facebook.com/109845683903349"><img src="https://img.shields.io/badge/Like Us-Facebook Page-blue"/></a>
-
   - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
-
   - <a href="https://facebook.com/groups/437537707116624/"><img src="https://img.shields.io/badge/Join In-Facebook Group-yellow"/></a>
-
   - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
-
   - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a><br/><br/>
 
 
