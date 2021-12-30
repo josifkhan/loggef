@@ -21,7 +21,7 @@ Download zip or git clone link:<br/>
 >>cd loggef <br/>
 >>pip install -r requirements<br/>
 >>python loggef.py</b><br/><br/>
->>Enter Access Code<br/>
+>>Enter Access Code [<b>Only For <a href="https://youtube.com/channel/UCDhu5CZlKVZGBS2I1k89RMw">Termux Tutorials</a> Channel Subscribers</b>]<br/>
 >>Select Option-
 <br/><br/>
 >><a href="https://youtube.com/101hacker"><img src="https://img.shields.io/badge/SUBSCRIBE-Md Josif Khan-orange"/></a><br/>
