@@ -28,14 +28,9 @@ Download zip or git clone link:<br/>
 >><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
 <br/>
 
->><b>Send Issues</b>: <a href="https://facebook.com/josifkhangg">Click Here</a><br/>
+>><b>Send Issues</b>: <a href="https://facebook.com/josif404k">Click Here</a><br/>
 <br/>
 
-  - <a href="https://facebook.com/109845683903349"><img src="https://img.shields.io/badge/Like Us-Facebook Page-blue"/></a>
-  - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
-  - <a href="https://facebook.com/groups/437537707116624/"><img src="https://img.shields.io/badge/Join In-Facebook Group-yellow"/></a>
-  - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
-  - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a><br/><br/>
-
-
-
+ - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
+           - <a href="https://t.me/hacker101community"><img src="https://img.shields.io/badge/Subscribe-Telegram Channel-red"/></a>
+      - <a href="https://t.me/termuxbangla"><img src="https://img.shields.io/badge/Join In-Telegram Group-green"/></a>
