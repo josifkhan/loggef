@@ -24,7 +24,7 @@ Download zip or git clone link:<br/>
 >>Enter Access Code [<b>Only For <a href="https://youtube.com/channel/UCuzdqM8XLFnVUbGHjM9TWWg">1M Josif</a> Channel Subscribers</b>]<br/>
 >>Select Option-
 <br/><br/>
->>Your Supoorts inspire us working hard for you.<br/>
+>>Your Supports inspire us working hard for you.<br/>
 >><a href="https://youtube.com/channel/UCuzdqM8XLFnVUbGHjM9TWWg"><img src="https://img.shields.io/badge/SUBSCRIBE-1M Josif-orange"/></a><br/>
 >><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
 <br/>
