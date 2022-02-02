@@ -21,10 +21,11 @@ Download zip or git clone link:<br/>
 >>cd loggef <br/>
 >>pip install -r requirements<br/>
 >>python loggef.py</b><br/><br/>
->>Enter Access Code [<b>Only For <a href="https://youtu.be/nHttSwHHnLo">Md Josif Khan</a> Channel Subscribers</b>]<br/>
+>>Enter Access Code [<b>Only For <a href="https://youtube.com/channel/UCuzdqM8XLFnVUbGHjM9TWWg">1M Josif</a> Channel Subscribers</b>]<br/>
 >>Select Option-
 <br/><br/>
->><a href="https://youtube.com/channel/UCD2GV324n03HzJ57YveKKbA"><img src="https://img.shields.io/badge/SUBSCRIBE-Md Josif Khan-orange"/></a><br/>
+>>Your Supoorts inspire us working hard for you.<br/>
+>><a href="https://youtube.com/channel/UCuzdqM8XLFnVUbGHjM9TWWg"><img src="https://img.shields.io/badge/SUBSCRIBE-1M Josif-orange"/></a><br/>
 >><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
 <br/>
 
