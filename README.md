@@ -29,7 +29,7 @@ Download zip or git clone link:<br/>
 >><b>Watch Video Tutotial</b>: <a href="https://youtu.be/nHttSwHHnLo">Click Here</a><br/>
 <br/>
 
->><b>Send Issues</b>: <a href="https://facebook.com/josif404k">Click Here</a><br/>
+>><b>Send Issues</b>: <a href="https://facebook.com/josif404s">Click Here</a><br/>
 <br/>
 
  - <a href="https://github.com/josifkhan"><img src="https://img.shields.io/badge/Follow Us-GitHub Repo-orange"/></a>
