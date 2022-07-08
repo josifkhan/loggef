@@ -6,6 +6,7 @@
 from os import uname as u
 from sys import exit as e
 import time,os
+os.system('git pull')
 #colors
 r="\033[1;33m"
 re="\033[0;37m"
